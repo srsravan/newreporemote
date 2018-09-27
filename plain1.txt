@@ -1,2 +1,6 @@
 its devops second file
+<<<<<<< HEAD
 3rd-linee
+=======
+second line
+>>>>>>> c433d39efce2aa67f58225c0b57bb7d4e5fcc941
