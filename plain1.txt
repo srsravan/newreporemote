@@ -2,4 +2,8 @@ its devops second file
 3rd-linee
 second line
 mofigied from remote
+<<<<<<< HEAD
 fifth line
+=======
+sixth line modified
+>>>>>>> refs/remotes/origin/master
